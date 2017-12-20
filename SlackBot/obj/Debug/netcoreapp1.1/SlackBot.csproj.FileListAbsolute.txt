@@ -1,0 +1,8 @@
+C:\projects\SlackBot\SlackBot\SlackBot\bin\Debug\netcoreapp1.1\SlackBot.deps.json
+C:\projects\SlackBot\SlackBot\SlackBot\bin\Debug\netcoreapp1.1\SlackBot.runtimeconfig.json
+C:\projects\SlackBot\SlackBot\SlackBot\bin\Debug\netcoreapp1.1\SlackBot.runtimeconfig.dev.json
+C:\projects\SlackBot\SlackBot\SlackBot\bin\Debug\netcoreapp1.1\SlackBot.dll
+C:\projects\SlackBot\SlackBot\SlackBot\obj\Debug\netcoreapp1.1\SlackBot.AssemblyInfo.cs
+C:\projects\SlackBot\SlackBot\SlackBot\bin\Debug\netcoreapp1.1\SlackBot.pdb
+C:\projects\SlackBot\SlackBot\SlackBot\obj\Debug\netcoreapp1.1\SlackBot.dll
+C:\projects\SlackBot\SlackBot\SlackBot\obj\Debug\netcoreapp1.1\SlackBot.pdb
